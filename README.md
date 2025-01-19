@@ -1,2 +1,2 @@
 # Silk-Luau
-My attempt at making ECP in Luau
+My attempt at making ECS in Luau.
